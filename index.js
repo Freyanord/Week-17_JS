@@ -69,3 +69,5 @@ const data = [
     image: 'https://cdn.dealerspike.com/imglib/products/harley-showroom/2020/livewire/main/Vivid-Black-Main.png'
     }
 ];
+
+const car1 = 
