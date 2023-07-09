@@ -70,4 +70,4 @@ const data = [
     }
 ];
 
-const car1 = 
+const car1 = new Car 
